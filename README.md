@@ -1,5 +1,12 @@
 <h1 align="center"> Vid Stream - YouTube Clone </h1>
 
+> Site is live at: https://vid-stream-gustavohdab.netlify.app/
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</p>
+
 ## 💻 Projeto
 
 O Vid Stream é um clone do YouTube desenvolvido com a API do RapidAPI, que oferece acesso a vídeos do YouTube. O projeto foi criado com o objetivo de praticar o consumo de API's externas e o desenvolvimento de um projeto com ReactJS.
@@ -10,13 +17,6 @@ O Vid Stream é um clone do YouTube desenvolvido com a API do RapidAPI, que ofer
 - Selecionar um vídeo para assistir
 - Sidebar com vídeos relacionados ao vídeo selecionado
 - Pesquisa pelas tags como Podcasts, Gaming, Playlists, Live, Beauty...
-
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</p>
-
-<br>
 
 <p align="center">
   <img alt="preview" src="./.github/preview.png" width="100%">
